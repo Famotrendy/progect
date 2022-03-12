@@ -1,0 +1,69 @@
+body{
+    padding: 15px;
+    background-color: rgb(192, 192, 226);
+}
+.logo1{
+    padding-left: 50px;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+}
+.buy_btn{
+    float: right;
+    margin-top: -40px ;
+    padding: 5px;
+    margin-right: 80px;
+    width: 200px;
+    height: 60px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 30px;
+    background-color: rgb(252, 0, 42);
+    color: #fff;
+    border: 0px;
+}
+.cv_btn{
+    width: 200px;
+    height: 60px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 30px;
+    background-color: rgb(252, 0, 42);
+    color: #fff;
+    border: 0px;
+    margin-top: 35px;
+}
+
+.menu{
+    text-align: center;
+    margin-top: -35px ;
+    padding-right: 100px;
+}
+ ul,li,a{
+    list-style-type: none;
+    display: inline;
+    padding: 15px;
+    text-decoration: none;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 18px;
+    
+}
+ul,li,a:hover{
+    color: rgb(252, 0, 42);
+}
+
+.cop_img{
+    float: right;
+    margin-right: -100px;
+
+}
+.gtxt{
+    margin-top: 200px;
+    padding-left: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fwd{
+    color: (gradient);
